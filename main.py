@@ -6,3 +6,4 @@ def cal(a,b):
     print(c,d,e,f)
 cal(2,3)
 print("hello")
+print("gt")
